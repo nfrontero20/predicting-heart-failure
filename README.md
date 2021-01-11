@@ -15,7 +15,11 @@ I created a report of my analyses, which can be found in [report.pdf](https://gi
 The report has multiple sections, which can be summarized as follows: 
 
 **1. Introduction:** motivation, overview of report
+
 **2. Preliminary analysis:** description of data, data wrangling, univariate analysis, bivariate analysis, outliers
+
 **3. Methods:** brief review of clustering and classification methods, discussion of how I implemented these methods
+
 **4. Results:** creation of three clustering models, creation of two classification models, reporting of results, choice of best model
+
 **5. Conclusion:** review of report, limitations, future directions
