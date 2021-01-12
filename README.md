@@ -1,6 +1,10 @@
 # predicting-heart-failure
 
-Heart failure is a cardiovascular disease that happens when the heart cannot pump enough blood and oxygen throughout the body [(CDC, 2020)](https://www.cdc.gov/heartdisease/heart_failure.htm).  In the United States alone, about 6.2 million adults have heart failure. When considered on a worldwide scale, heart failure is referred to as a "global pandemic" [(Savarese & Lund, 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5494150/).  While scientists and doctors are aware of risk factors for developing heart failure [(CDC, 2020)](https://www.cdc.gov/heartdisease/heart_failure.htm), it is difficult at present for doctors to predict the survival of patients who already have heart failure [(Chicco & Jurman, 2020)](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5).  
+## Background
+
+Heart failure is a cardiovascular disease that happens when the heart cannot pump enough blood and oxygen throughout the body [(CDC, 2020)](https://www.cdc.gov/heartdisease/heart_failure.htm).  In the United States alone, about 6.2 million adults have heart failure. When considered on a worldwide scale, heart failure is referred to as a "global pandemic" [(Savarese & Lund, 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5494150/).  While scientists and doctors are aware of risk factors for developing heart failure [(CDC, 2020)](https://www.cdc.gov/heartdisease/heart_failure.htm), it is difficult at present for doctors to predict the survival of patients who already have heart failure [(Chicco & Jurman, 2020)](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5). 
+
+## My goals
 
 In their paper titled "[Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5)," researchers Davide Chicco and Giuseppe Jurman set out to predict the survival of patients with heart failure by performing machine learning techniques on medical records data.  I was interested in extending Chicco and Jurman's work by performing **clustering** and **classification** analyses on their data.
 
