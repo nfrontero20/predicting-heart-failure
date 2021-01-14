@@ -1,4 +1,4 @@
-# predicting-heart-failure
+# Predicting Heart Failure
 
 ## Background
 
